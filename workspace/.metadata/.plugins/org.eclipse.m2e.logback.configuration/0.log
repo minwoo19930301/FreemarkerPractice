@@ -1422,3 +1422,8 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: start tag n
 2020-01-16 17:10:45,601 [Worker-39: Launching HelloWorld] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-01-16 17:10:45,605 [Worker-39: Launching HelloWorld] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-01-16 17:10:45,606 [Worker-39: Launching HelloWorld] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 17:19:49,327 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 17:19:49,329 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-01-16 17:19:49,344 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-01-16 17:19:49,347 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-16 17:19:49,347 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
