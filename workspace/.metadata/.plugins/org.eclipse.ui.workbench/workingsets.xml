@@ -9,4 +9,5 @@
 <item elementID="=boot-freemarker/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1579157324376_2" label="Window Working Set" name="Aggregate for window 1579157324376"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1579238821996_3" label="Window Working Set" name="Aggregate for window 1579238821996"/>
 </workingSetManager>

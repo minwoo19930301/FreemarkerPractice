@@ -10,6 +10,6 @@ public class TestController {
     @RequestMapping("/welcome")
     public String hello(Model model, @RequestParam(value="name", required=false, defaultValue="unknown") String name) {
         model.addAttribute("name", name);
-        return "welcome";
+        return "view";
     }
 }
